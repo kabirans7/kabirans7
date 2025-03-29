@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kabir Ansari</h1>
 <h3 align="center">I am a Business Information Systems Student at the University of Westminster. Currently, I am doing a semester exchange at Seton Hall University. I would like to do an industrial placement year as part of my degree within the IT sector. I am specifically focused on becoming a Business Analyst or Data Analyst. My GitHub showcases the technological projects I have done throughout my career and has employed me with the required knowledge, skills, and experience to better prepare me for the modern domain of employment.</h3>
 
-- 🌱 I’m currently learning **Python and SQL**
+-  I’m currently learning **Python and SQL**
 
-- 📫 How to reach me **kabir.ansari@outlook.com**
+-  How to reach me **kabir.ansari@outlook.com**
 
 <div style="border: 2px solid #000; padding: 20px; margin: 20px 0;">
     <h3 align="left">Languages and Tools:</h3>
