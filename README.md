@@ -16,7 +16,7 @@
 <h3 align="left">Projects:</h3>
 <a href= "https://github.com/kabirans7/Python-Portfolio">Python Portfolio:</a> First Year University of Westminster Python Portfolio of solving problems.<br><br>
 <a href= "https://github.com/kabirans7/Art-Gallery-SQL-Database">Art Gallery Database:</a> First Year University of Westminster Project, dealing with an Art Gallery Database for a Museum.<br><br>
-<a href= "https://github.com/kabirans7/UN-SDGs-Website">UN SDGs Website: </a><br><br> First Year University of Westminster Project for the UN SDGs Website.
+<a href= "https://github.com/kabirans7/UN-SDGs-Website">UN SDGs Website: </a> First Year University of Westminster Project for the UN SDGs Website.<br><br>
 <a href= "https://github.com/kabirans7/Multiplayer_Turn_Based_Battle_Game">Multiplayer Turn-Based Battle Game: </a> Second Year Seton Hall University Project for a Multiplayer Battle Game.
 <br><br>
 <p>Please look at the repositories to view more projects</p>
