@@ -26,7 +26,7 @@
         <li><a href="https://github.com/kabirans7/Python-Portfolio">Python Portfolio:</a> First Year University of Westminster Python Portfolio of solving problems.</li>
         <li><a href="https://github.com/kabirans7/-Art-Gallery-SQL-Database">Art Gallery Database:</a> First Year University of Westminster Project, dealing with an Art Gallery Database for a Museum.</li>
         <li><a href="https://github.com/kabirans7/UN-SDGs-Website">UN SDGs Website:</a> First Year University of Westminster Project for the UN SDGs Website.</li>
-        <li><a href="https://github.com/kabirans7/Multiplayer_Turn_Based_Battle_Game">Multiplayer Turn-Based Battle Game:</a> Second Year Seton Hall University Project for a Multiplayer Battle Game.</li>
+        <li><a href="https://github.com/kabirans7/Go-Pirate-Multiplayer-Game">Go-Pirate-Multiplayer-Game:</a> Second Year Seton Hall University Final Project for a Multiplayer Battle Game.</li>
     </ul>
     <p>Please look at the repositories to view more projects</p>
 </div>
