@@ -27,11 +27,6 @@
         <li><a href="https://github.com/kabirans7/-Art-Gallery-SQL-Database">Art Gallery Database:</a> First Year University of Westminster Project, dealing with an Art Gallery Database for a Museum.</li>
         <li><a href="https://github.com/kabirans7/UN-SDGs-Website">UN SDGs Website:</a> First Year University of Westminster Project for the UN SDGs Website.</li>
         <li><a href="https://github.com/kabirans7/Go-Pirate-Multiplayer-Game">Go-Pirate-Multiplayer-Game:</a> Second Year Seton Hall University Final Project for a Multiplayer Battle Game.
-        <li><a href="https://github.com/kabirans7/Final-Year-Project">Final Year University of Westminster Project</li>
-    </li>
-    </ul>
-    <p>Please look at the repositories to view more projects</p>
-</div>
-
+        <li><a href="https://github.com/kabirans7/Final-Year-Project">Final Year University of Westminster Project: GradScope</a></li>
 
 
