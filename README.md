@@ -62,7 +62,7 @@
       Second-year Seton Hall University final project involving the development of a multiplayer battle game.
     </li>
     <li>
-      <a href="https://github.com/kabirans7/Final-Year-Project">Final Year Project: GradScope</a>
+      <a href="https://github.com/kabirans7/Final-Year-Project">GradScope:</a>
       Final-year University of Westminster project focused on graduate labour market insights.
     </li>
   </ul>
