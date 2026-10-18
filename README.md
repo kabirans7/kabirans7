@@ -3,7 +3,7 @@
 <h3 align="center">
   First-Class Business Information Systems graduate from the University of Westminster with international experience in the USA.
   <br><br>
-  Looking for roles in Business/Data Analytics and Consulting.
+  Looking for roles within Business/Data Analytics and Consulting.
   <br><br>
   My GitHub showcases the technological projects I have completed throughout my academic journey, helping me develop the knowledge, skills, and experience needed to prepare for the modern employment market.
 </h3>
