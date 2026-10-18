@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kabir Ansari</h1>
 
 <h3 align="center">
-  I am a Business Information Systems student at the University of Westminster, and I recently completed a semester exchange at Seton Hall University in New Jersey.
+  First-Class Business Information Systems graduate from the University of Westminster with international experience in the USA.
   <br><br>
-  I am specifically focused on becoming a Business Analyst or Data Analyst.
+  Looking for roles in Business/Data Analytics and Consulting.
   <br><br>
   My GitHub showcases the technological projects I have completed throughout my academic journey, helping me develop the knowledge, skills, and experience needed to prepare for the modern employment market.
 </h3>
